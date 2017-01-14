@@ -68,7 +68,7 @@ Vaak available zijn niet perse belonen
 
 Flowchart - by peter
 
-Goal #0
+# Goal #0
 De readme voeden we aan serendipitai om zo ontwikkelaars te vinden voor serdipitai.
 
 
