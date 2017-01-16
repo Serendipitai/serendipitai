@@ -7,6 +7,10 @@ Serendipity means that you find something which you weren't looking for on purpo
 
 Serendipitai wants to find the unexpected relation between certain entities. We want to make connections between you, the human, and the unknown relation what is relevant for you. Wether this is an event, person, job or interest, the main factor is that Serendipitai does this for you without giving any parameters from the user.
 
+## Minimum Viable Product
+
+We must be able to find developers interested in Serendipitai with the Serendipitai documentation as input.
+
 # Missie:
 Onverwachte verbindingen laten zien op basis van je verbindingen die een AI kan vinden over jou.
 
